@@ -5,14 +5,14 @@ let rulersNames: [String] = ["Alexander", "Napoleon", "Julius Ceasar", "Hannibal
 for ruler in rulersNames //iterates through the rulersNames string values
 {
     if(ruler == "Alexander")
-    {
+    {   
         print(ruler, "the Great")
     }
     else if(ruler == "Napoleon")
     {
         print(ruler, "is the greatest general to ever live.")
     }
-    else if(ruler == "Julius Ceaser")
+    else if(ruler == "Julius Ceasar")
     {
         print(ruler, "is one of Rome's greatest rulers and helped create the Roman Empire.")
     }
