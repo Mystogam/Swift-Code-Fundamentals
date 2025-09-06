@@ -4,5 +4,5 @@ let rulersNames = ["Alexander", "Julius", "Peter", "Catherine", "Saladin"] //cre
 
 for _ in rulersNames //iterates through the value of rulersNames and displays it below
 {
-    print("Greatest rulers in history "rulersNames)  
+    print("Greatest rulers in history ", rulersNames)  
 }
