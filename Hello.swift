@@ -1,8 +1,4 @@
- //an up to date import for swift
-
-
-
-
+import UIKit //an up to date import for swift
 
 let firstGreeting = "Hello World" //creates variable firstGreeting and attatches value
 
