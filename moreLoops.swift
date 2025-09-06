@@ -8,4 +8,20 @@ for ruler in rulersNames
     {
         print(ruler, "the Great")
     }
+    else if(ruler == "Napoleon")
+    {
+        print(ruler, "")
+    }
+    else if(ruler == "Julius Ceaser")
+    {
+
+    }
+    else if(ruler == "Hannibal")
+    {
+        
+    }
+    else if(ruler == "George Washington")
+    {
+
+    }
 }
