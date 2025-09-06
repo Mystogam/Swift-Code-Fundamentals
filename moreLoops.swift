@@ -1,10 +1,10 @@
 import Foundation
 
-let rulersNames: [String] = ["Alexander", "Napoleon", "Julius Ceasar", "Hannibal", "George Washington"]
+let rulersNames: [String] = ["Alexander", "Napoleon", "Julius Ceasar", "Hannibal", "George Washington"]//a string of different rulers in histroy
 
 for ruler in rulersNames //iterates through the rulersNames string values
 {
-    if(ruler == "Alexander")
+    if(ruler == "Alexander")//if else statement chains nested in the for loop that displays different sentences depending on string
     {   
         print(ruler, "the Great")
     }
