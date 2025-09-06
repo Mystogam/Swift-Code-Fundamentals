@@ -4,7 +4,7 @@ let rulersNames: [String] = ["Alexander", "Napoleon", "Julius Ceasar", "Hannibal
 
 for ruler in rulersNames
 {
-    if(ruler = "Alexander")
+    if(ruler == "Alexander")
     {
         print(ruler, "the Great")
     }
